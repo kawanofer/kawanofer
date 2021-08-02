@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá! Eu sou o Fernando Kawano
+
+ <div>
+  <a href="https://github.com/kawanofer">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kawanofer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawanofer&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <!--
 **kawanofer/kawanofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
