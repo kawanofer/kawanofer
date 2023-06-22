@@ -3,11 +3,6 @@
 
 - I'm from Curitiba, Pr - 🇧🇷 Brazil
 - 🔭 I’m currently working as a Front-end React ...
-- 🌱 I’m currently learning about NodeJs and NextJs ...
- ##
-I'm a software developer with over 10 years of experience working in the IT industry, specialized in web development, using JavaScript’s modern framework, React. I'm also skilled with Sharepoint building applications and sites for clients based on their needs and requirements. I worked from startups to big companies, developing several systems with variant complexity
-
-Skills: React / Redux / Context API / JavaScript / ES6 / AngularJs / JSON / TypeScript / Node.js / Nest.js / Next.js / Sharepoint (Classic and Modern) / SPFx / REST APIs / HTML / CSS / Styled components Bootstrap / Material-UI / Fabric.js / [Azure DevOps / Trello / Scrum / Kanban
 
  ##
  
