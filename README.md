@@ -23,7 +23,6 @@ I'm a Front-end Software Engineer with extensive experience crafting immersive d
 ![GITHUB][GITHUB__BADGE]
 ![HEROKU][HEROKU__BADGE]
 ![HTML5][HTML5__BADGE]
-![JAVASCRIPT][JAVASCRIPT__BADGE]
 ![JEST][JEST__BADGE]
 ![JIRA][JIRA__BADGE]
 ![MATERIAL_UI][MATERIAL_UI__BADGE]
@@ -40,6 +39,7 @@ I'm a Front-end Software Engineer with extensive experience crafting immersive d
 ![SONAR_LINT][SONAR_LINT__BADGE]
 ![STYLED_COMPONENTS][STYLED_COMPONENTS__BADGE]
 ![TYPESCRIPT][TYPESCRIPT__BADGE]
+![JAVASCRIPT_STYLE_GUIDE__BADGE]
 
 <h2 id="statistics">📊 Statistics</h2>
 <div>
@@ -72,3 +72,4 @@ I'm a Front-end Software Engineer with extensive experience crafting immersive d
 [SONAR_LINT__BADGE]: https://img.shields.io/badge/SonarLint-CB2029?style=for-the__BADGE&logo=sonarlint&logoColor=white
 [STYLED_COMPONENTS__BADGE]: https://img.shields.io/badge/styled--components-DB7093?style=for-the__BADGE&logo=styled-components&logoColor=white
 [TYPESCRIPT__BADGE]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+[JAVASCRIPT_STYLE_GUIDE__BADGE]: https://img.shields.io/badge/code_style-standard-brightgreen.svg
